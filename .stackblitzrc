@@ -1,0 +1,3 @@
+{
+    "startCommand": "npx -p svelte@next -p vowel@latest npx vowel"
+}

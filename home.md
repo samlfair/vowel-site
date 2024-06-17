@@ -2,6 +2,8 @@
 
 Vowel is a very simple Markdown- and CSS-based website generator.
 
+[Edit this page on StackBlitz](https://stackblitz.com/~/github.com/samlfair/vowel-site?file=.stackblitzrc).
+
 To try it out, `cd` into a directory of markdown files and run:
 
 ```
@@ -17,8 +19,6 @@ Vowel is a minimal website framework for developers who love to write CSS and re
 > Here's a lovely block quote.
 
 Vowel will generate a feature-rich HTML website from a directory of markdown files. The output is plain HTML. You can style it however you want with your own CSS.
-
-See a [demo on StackBlitz](https://stackblitz.com/edit/stackblitz-starters-nh7m7v?file=home.md). (**Error:** This demo might not work due conflicts in Svelte 5's peer dependencies.)
 
 Vowel is created by Sam Littlefair. If you have questions or comments, [reach out to me on Twitter](https://twitter.com/samlfair).
 

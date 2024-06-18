@@ -24,19 +24,29 @@ description: What's planned.
 
 ## V2
 
-- [ ] Tables of contents
-- [/] CSS defaults (work in progress)
-- [ ] Fallback homepages
-- [ ] Init CLI
-- [ ] Better default styles
-- [ ] CSS layout [presets](https://github.com/swyxio/spark-joy?tab=readme-ov-file#drop-in-css-frameworks)
-- [ ] Post list element (`#tags/blue`, `@tags/blue`, `~tags/blue`)
-- [x] Images as <figure>s
+- [x] Images as `<figure>`s
 - [x] Frontmatter interpolation (title and description)
-- [ ] Frontmatter interpolation (image)
+- [x] CSS default
 - [x] Better favicon and styles handling
 - [x] Ignore README files
-- [ ] Add more header metadata
+- [x] Include breadcrumbs in page titles
+- [x] Add hidden routes (`$`)
+- [x] Image alt text
+- [x] Deploy action (Vercel)
+- [x] Add anchor links for headings
+- [x] Figure out how to stop components from remounting on every change
+- [x] Demote headings global option (headings are now demoted intelligently)
+- [x] Taxonomy lists
+- [ ] Tables of contents
+- [ ] Fallback homepages
+- [ ] Init CLI
+- [ ] ::Mark::
+- [ ] ~~Strikethrough~~
+- [ ] Checklists
+- [ ] GitHub-style notes
+- [ ] Footnotes
+- [ ] Frontmatter interpolation (image)
+- [ ] Add more header metadata?
 - [ ] Define folder settings
   - [ ] Title
   - [ ] Breadrumb
@@ -49,20 +59,10 @@ description: What's planned.
   - [ ] Tags
   - [ ] Author/Authors
 - [ ] Make file names kebab-cased for URLs and links
-- [x] Include breadcrumbs in page titles ~~(optionally)~~
-- [ ] Strikethrough
-- [ ] Add hidden routes (`$`)
-- [x] Image alt text
 - [ ] Code highlighter
-- [x] Deploy action (Vercel)
-- [x] Add anchor links for headings
-- [ ] Post TOC
-- [ ] GitHub-style notes
 - [ ] Add in-browser search
-- [x] Figure out how to stop components from remounting on every change
 - [ ] Make RSS optional
 - [ ] Pagination
-- [x] Demote headings global option (headings are now demoted intelligently)
 
 ## Wish list
 

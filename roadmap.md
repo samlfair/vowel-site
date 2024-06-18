@@ -41,11 +41,15 @@ description: What's planned.
 - [x] Checklists
 - [x] GitHub-style notes
 - [x] Footnotes
+- [ ] Better create/delete handling in HMR
 - [ ] Slogan in homepage `<title>`
 - [ ] Disable default styles option
 - [ ] Tables of contents
 - [ ] Fallback homepages
 - [ ] Init CLI
+  - Option for destructive actions
+  - Create homepage
+  - Create CSS file
 - [ ] ::Mark::
 - [ ] Frontmatter interpolation (image)
 - [ ] Add more header metadata?

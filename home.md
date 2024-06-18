@@ -26,7 +26,7 @@ Vowel is created by Sam Littlefair. If you have questions or comments, [reach ou
 
 # Features
 
-/$features?count=20
+/$features?count=25
 
 # Try it
 

@@ -41,10 +41,10 @@ description: What's planned.
 - [ ] Fallback homepages
 - [ ] Init CLI
 - [ ] ::Mark::
-- [ ] ~~Strikethrough~~
-- [ ] Checklists
-- [ ] GitHub-style notes
-- [ ] Footnotes
+- [x] ~~Strikethrough~~
+- [x] Checklists
+- [x] GitHub-style notes
+- [x] Footnotes
 - [ ] Frontmatter interpolation (image)
 - [ ] Add more header metadata?
 - [ ] Define folder settings

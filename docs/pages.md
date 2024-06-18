@@ -33,7 +33,36 @@ You can also use lists and objects in frontmatter.
 
 # Markdown
 
-Along with all standard markdown, Vowel also allows the following special elements:
+Vowel comes loaded with GFM (Github-flavored Markdown):
+
+```
+## Autolink literals
+
+www.example.com, https://example.com, and contact@example.com.
+
+## Footnote
+
+A note[^1]
+
+[^1]: Big note.
+
+## Strikethrough
+
+~one~ or ~~two~~ tildes.
+
+## Table
+
+| a | b  |  c |  d  |
+| - | :- | -: | :-: |
+
+## Tasklist
+
+* [ ] to do
+* [x] done
+
+```
+
+Along with all standard Markdown, Vowel also allows the following special elements:
 
 ## Rich link previews
 
@@ -62,3 +91,50 @@ If your document includes `h1`s after the title, all headings will be demoted on
 ## Description
 
 If your document doesn't include a `description`, a meta description will be extracted from the text.
+
+## Notes
+
+Highlight information with note boxes:
+
+```
+:::tip
+Use `tip` for power-ups.
+:::
+
+:::note
+Use `note` for good-to-know information.
+:::
+
+:::important
+Use `important` to help guide your user down the right path.
+:::
+
+:::warning
+Use `warning` to help your user avoid the wrong path.
+:::
+
+:::caution
+Use `caution` to alert the user before they perform a destructive action.
+:::
+
+```
+
+:::tip
+Use `tip` for power-ups.
+:::
+
+:::note
+Use `note` for good-to-know information.
+:::
+
+:::important
+Use `important` to help guide your user down the right path.
+:::
+
+:::warning
+Use `warning` to help your user avoid the wrong path.
+:::
+
+:::caution
+Use `caution` to alert the user before they perform a destructive action.
+:::

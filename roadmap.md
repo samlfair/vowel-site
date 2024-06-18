@@ -41,6 +41,7 @@ description: What's planned.
 - [x] Checklists
 - [x] GitHub-style notes
 - [x] Footnotes
+- [ ] Slogan in homepage `<title>`
 - [ ] Disable default styles option
 - [ ] Tables of contents
 - [ ] Fallback homepages

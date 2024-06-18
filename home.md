@@ -11,7 +11,7 @@ Start editing this page with one click by [opening it on StackBlitz](https://sta
 To try Vowel out on your own computer, `cd` into a directory of markdown files and run:
 
 ```
-npx -p svelte@next -p vowel@latest npx vowel
+npx -y -p svelte@next -p vowel@latest npx vowel
 ```
 
 (This `npx` command forces the Svelte 5 peer depedency, without which the app will throw an error.)

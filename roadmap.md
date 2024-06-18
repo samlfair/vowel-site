@@ -37,14 +37,15 @@ description: What's planned.
 - [x] Figure out how to stop components from remounting on every change
 - [x] Demote headings global option (headings are now demoted intelligently)
 - [x] Taxonomy lists
-- [ ] Tables of contents
-- [ ] Fallback homepages
-- [ ] Init CLI
-- [ ] ::Mark::
 - [x] ~~Strikethrough~~
 - [x] Checklists
 - [x] GitHub-style notes
 - [x] Footnotes
+- [ ] Disable default styles option
+- [ ] Tables of contents
+- [ ] Fallback homepages
+- [ ] Init CLI
+- [ ] ::Mark::
 - [ ] Frontmatter interpolation (image)
 - [ ] Add more header metadata?
 - [ ] Define folder settings

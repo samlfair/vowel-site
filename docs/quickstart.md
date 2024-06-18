@@ -3,17 +3,17 @@ title: Quickstart
 description: Get started with Vowel.
 ---
 
-## With npx
+## npx
 
 npx is the easiest way to use vowel:
 
 ```
-npx -p svelte@next -p vowel@latest npx vowel
+npx -y -p svelte@next -p vowel@latest npx vowel
 ```
 
 Vowel will attempt to generate a website based on the contents of your file.
 
-## With npm
+## npm
 
 Create a directory. Then, open that directory and run these commands in your terminal:
 

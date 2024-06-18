@@ -2,7 +2,7 @@
 
 Vowel is a very simple Markdown- and CSS-based website generator.
 
-[Edit this page on StackBlitz](https://stackblitz.com/~/github.com/samlfair/vowel-site?file=.stackblitzrc).
+[Edit this page on StackBlitz](https://stackblitz.com/~/github.com/samlfair/vowel-site?file=home.md).
 
 To try it out, `cd` into a directory of markdown files and run:
 

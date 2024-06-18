@@ -4,7 +4,7 @@ Vowel is a very simple Markdown- and CSS-based website generator.
 
 :::tip
 
-Starting editing this page with one click by [opening it on StackBlitz](https://stackblitz.com/~/github.com/samlfair/vowel-site?file=home.md).
+Start editing this page with one click by [opening it on StackBlitz](https://stackblitz.com/~/github.com/samlfair/vowel-site?file=home.md).
 
 :::
 

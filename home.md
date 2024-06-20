@@ -39,4 +39,4 @@ Vowel is created by Sam Littlefair. If you have questions or comments, [reach ou
 
 # Try it
 
-/docs/quickstart
+/docs

@@ -41,9 +41,11 @@ description: What's planned.
 - [x] Checklists
 - [x] GitHub-style notes
 - [x] Footnotes
-- [ ] Better create/delete handling in HMR
+- [x] Better create/delete handling in HMR
+- [x] Disable default styles option
+- [ ] Debug settings page HMR
 - [ ] Slogan in homepage `<title>`
-- [ ] Disable default styles option
+- [ ] Create style reset theme
 - [ ] Tables of contents
 - [ ] Fallback homepages
 - [ ] Init CLI

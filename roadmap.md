@@ -43,11 +43,16 @@ description: What's planned.
 - [x] Footnotes
 - [x] Better create/delete handling in HMR
 - [x] Disable default styles option
+- [ ] Better theme CSS handling
 - [ ] Debug settings page HMR
 - [ ] Slogan in homepage `<title>`
+- [ ] Prioritize `title` and `h1` for meta title
+- [ ] Prioritize `title` over `h1` for thumbnails
+- [ ] Handle SVGs properly
 - [ ] Create style reset theme
 - [ ] Tables of contents
 - [ ] Fallback homepages
+- [ ] Date format customizing
 - [ ] Init CLI
   - Option for destructive actions
   - Create homepage

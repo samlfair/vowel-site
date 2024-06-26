@@ -47,12 +47,12 @@ description: What's planned.
 - [x] Create style reset theme
 - [x] Debug settings page HMR (temporary fix with full-page refresh)
 - [x] Fix checklist boxes
-- [ ] Add a default 404 page
 - [x] Handle SVGs properly
 - [x] Slogan in homepage `<title>`
 - [x] Prioritize `title` and `h1` for meta title
 - [x] Prioritize `title` over `h1` for thumbnails
 - [x] Tables of contents
+- [x] Add a default 404 page
 
 ## V3
 
@@ -93,10 +93,6 @@ description: What's planned.
 - [ ] Advanced markdown
   - [ ] Highlight
   - [ ] Sanitize
-  - [ ] Tables
-  - [ ] Strike
-  - [ ] Task lists
-  - [ ] Footnotes
   - [ ] Mermaid
   - [ ] Math
   - [ ] Wikilinks

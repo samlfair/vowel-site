@@ -22,6 +22,7 @@ Reserved properties
 - `description`: Page description
 - `date`: Date published
 - `breadcrumb`: Short identifier for the page
+- `toc`: Optionally display a table of contents
 
 Vowel will attempt to impute the type of each frontmatter property. Imputed types include:
 

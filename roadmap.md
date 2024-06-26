@@ -46,13 +46,13 @@ description: What's planned.
 - [x] Better theme CSS handling
 - [x] Create style reset theme
 - [x] Debug settings page HMR (temporary fix with full-page refresh)
-- [ ] Fix checklist boxes
+- [x] Fix checklist boxes
 - [ ] Add a default 404 page
-- [ ] Handle SVGs properly
-- [ ] Slogan in homepage `<title>`
-- [ ] Prioritize `title` and `h1` for meta title
-- [ ] Prioritize `title` over `h1` for thumbnails
-- [ ] Tables of contents
+- [x] Handle SVGs properly
+- [x] Slogan in homepage `<title>`
+- [x] Prioritize `title` and `h1` for meta title
+- [x] Prioritize `title` over `h1` for thumbnails
+- [x] Tables of contents
 
 ## V3
 

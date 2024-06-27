@@ -1,0 +1,20 @@
+{
+  "name": "vowel-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vowel",
+    "build": "vowel build"
+  },
+  "keywords": [],
+  "author": "Sam Littlefair <sam@littlefair.ca> (http://littlefair.ca/)",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "svelte": "^5.0.0-next.166",
+    "vowel": "^0.1.21"
+  }
+}

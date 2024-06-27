@@ -1,6 +1,6 @@
 ---
 title: Vowel
-slogan: Markup for your Markdown
+slogan: The easiest way to code a website
 breadcrumb: Home
 domain: 'https://getvowel.com'
 author: Sam Littlefair

@@ -1,0 +1,51 @@
+.link-preview {
+  h2 {
+    margin-top: 0;
+  }
+}
+
+.folder-blog {
+  margin-block: var(--size-9);
+
+  & > article + article {
+    border-top: 1px solid var(--surface-3);
+  }
+
+  & > article > .content,
+  & > article > :not(h1, time) {
+    display: none;
+  }
+
+  & > article {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1rem;
+    align-items: baseline;
+    padding-inline: 0;
+    background: unset;
+    border-radius: 0;
+    border: unset;
+  }
+
+  & article + article {
+    border-top: 1px solid grey;
+  }
+
+  & > article > h1 {
+    max-inline-size: unset;
+    font-weight: 600;
+    flex: 1;
+    font-size: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  & > article > time {
+    margin-left: auto;
+    margin: 0;
+    font-size: 1em;
+  }
+}

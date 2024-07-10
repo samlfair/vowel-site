@@ -52,7 +52,8 @@ description: What's planned.
 - [x] Prioritize `title` and `h1` for meta title
 - [x] Prioritize `title` over `h1` for thumbnails
 - [x] Tables of contents
-- [x] Add a default 404 page
+- [x] Frontmatter interpolation (image)
+- [ ] Add a default 404 page
 
 ## V3
 
@@ -63,7 +64,6 @@ description: What's planned.
   - Create homepage
   - Create CSS file
 - [ ] ::Mark::
-- [ ] Frontmatter interpolation (image)
 - [ ] Add more header metadata?
 - [ ] Define folder settings
   - [ ] Title

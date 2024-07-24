@@ -56,6 +56,7 @@ description: What's planned.
 - [ ] Add a default 404 page
 - [ ] [WebMentions](https://indieweb.org/webmentions)
 - [ ] [Microformats2](https://indieweb.org/microformats2) markup
+- [ ] Define get-all queries with `*` and `**`
 
 ## V3
 

@@ -54,6 +54,8 @@ description: What's planned.
 - [x] Tables of contents
 - [x] Frontmatter interpolation (image)
 - [ ] Add a default 404 page
+- [ ] [WebMentions](https://indieweb.org/webmentions)
+- [ ] [Microformats2](https://indieweb.org/microformats2) markup
 
 ## V3
 

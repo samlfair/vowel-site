@@ -57,6 +57,7 @@ description: What's planned.
 - [ ] [WebMentions](https://indieweb.org/webmentions)
 - [ ] [Microformats2](https://indieweb.org/microformats2) markup
 - [ ] Define get-all queries with `*` and `**`
+- [ ] Add a meta `generator` tag
 
 ## V3
 

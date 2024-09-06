@@ -58,6 +58,7 @@ description: What's planned.
 - [ ] [Microformats2](https://indieweb.org/microformats2) markup
 - [ ] Define get-all queries with `*` and `**`
 - [ ] Add a meta `generator` tag
+- [ ] Basic caching with [fs.stat](https://nodejs.org/docs/v0.4.12/api/fs.html#fs.stat)
 
 ## V3
 

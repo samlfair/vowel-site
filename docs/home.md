@@ -11,7 +11,7 @@ Let's get started.
 npx is the easiest way to use vowel:
 
 ```
-npx -y -p svelte@next -p vowel@latest npx vowel
+npx vowel
 ```
 
 Vowel will attempt to generate a website based on the contents of your file.

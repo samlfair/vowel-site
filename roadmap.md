@@ -59,6 +59,7 @@ description: What's planned.
 - [ ] Define get-all queries with `*` and `**`
 - [ ] Add a meta `generator` tag
 - [ ] Basic caching with [fs.stat](https://nodejs.org/docs/v0.4.12/api/fs.html#fs.stat)
+- [ ] Support Obsidian callouts and GitHub alerts
 
 ## V3
 

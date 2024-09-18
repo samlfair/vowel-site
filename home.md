@@ -11,10 +11,8 @@ Start editing this page with one click by [opening it on StackBlitz](https://sta
 To try Vowel out on your own computer, `cd` into a directory of markdown files and run:
 
 ```
-npx -y -p svelte@next -p vowel@latest npx vowel
+npx vowel
 ```
-
-(This `npx` command forces the Svelte 5 peer depedency, without which the app will throw an error.)
 
 Vowel is a minimal website framework for developers who love to write CSS and read RSS.
 

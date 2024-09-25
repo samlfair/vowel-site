@@ -30,7 +30,7 @@ When you push changes to your repository, your Vercel project will automatically
 You can manually build your project with `npx`. Run this command:
 
 ```
-npx vowel
+npx vowel build
 ```
 
 The build command will create a `vercel.json` file at the root of your project with the necessary configuration for a Vercel deploy. Now deploy to Vercel:

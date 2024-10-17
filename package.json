@@ -15,6 +15,6 @@
   "description": "",
   "dependencies": {
     "svelte": "^5.0.0-next.166",
-    "vowel": "^0.1.21"
+    "vowel": "^0.1.35"
   }
 }

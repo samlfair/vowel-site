@@ -1,8 +1,10 @@
 ---
 title: Vowel
 slogan: The easiest way to code a website
+webmentions: true
+github: samlfair
 breadcrumb: Home
-domain: 'https://getvowel.com'
+domain: 'https://vowel.cc'
 author: Sam Littlefair
 icon: 🔥
 robots:

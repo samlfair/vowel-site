@@ -3,6 +3,8 @@ date: 2024-10-18
 breadcrumb: Send Me
 ---
 
+# Vowel Now Sends Webmentions
+
 Vowel now has rudimntary support for [webmentions](https://indieweb.org/Webmention). This allows your website to communicate with the rest of the internet.
 
 Webmentions are essentially messages between websites, turning the internet into a social network. Before webmentions, if you wanted to comment on a web page, you would post a comment there directly. Commenting systems require complicated back-end infrastructure and systems to identify users, which drove massive consolidation in web publishing around a few social networks. Large social networks let you interact with the content that other people share by keeping you trapped in their closed ecosystem.

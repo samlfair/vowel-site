@@ -6,6 +6,14 @@ If you set `webmentions: true` in your root `settings.md` file, then Vowel will 
 
 This will all happen automatically.
 
+In order to send webmentions, you must use the `publish` command:
+
+```
+npx vowel publish
+```
+
+The `build` command won't send webmentions. The `publish` command will. Use `publish` in your deploy config.
+
 Vowel will also automatically send webmentions for links in your content. 
 
 :::note

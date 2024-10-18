@@ -20,3 +20,5 @@ For now, let's give it a test. Here's a link to a blog post I wrote recently abo
 https://www.littlefair.ca/photography/film
 
 If the system is working properly, a webmention should appear at the bottom of that page after I publish both sites.
+
+_Edit: I can see that the website has updated properly, and it's earmarked the new link. Now, I'll redploy the website. This time, it should send the webmention._

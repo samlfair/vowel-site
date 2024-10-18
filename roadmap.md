@@ -54,12 +54,15 @@ description: What's planned.
 - [x] Tables of contents
 - [x] Frontmatter interpolation (image)
 - [ ] Add a default 404 page
-- [ ] [WebMentions](https://indieweb.org/webmentions)
+- [x] [Send webmentions](https://indieweb.org/webmentions)
+- [x] Webmention link in head
+- [ ] Display webmentions
 - [ ] [Microformats2](https://indieweb.org/microformats2) markup
 - [ ] Define get-all queries with `*` and `**`
 - [ ] Add a meta `generator` tag
 - [ ] Basic caching with [fs.stat](https://nodejs.org/docs/v0.4.12/api/fs.html#fs.stat)
 - [ ] Support Obsidian callouts and GitHub alerts
+- [ ] Setup wizard
 
 ## V3
 

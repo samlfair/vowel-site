@@ -1,5 +1,5 @@
 {
   "cleanUrls": true,
   "outputDirectory": ".output",
-  "buildCommand": "npx -p svelte@next -p vowel@latest npx vowel build"
+  "buildCommand": "npx -y vowel@latest publish"
 }

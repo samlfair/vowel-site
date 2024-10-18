@@ -23,6 +23,6 @@ If the system is working properly, a webmention should appear at the bottom of t
 
 _Edit: I can see that the website has updated properly, and it's earmarked the new link. Now, I'll redploy the website. This time, it should send the webmention._
 
-_Edit 2: The webhook didn't send properly. Upon investigation, I see that it's because I had hardcoded the webmention URLs. Hopefully I've resolved that problem! I will now try redploying to see if it works for this blog post of photos from Paris:_
+_Edit 2: The webhook didn't send properly. Upon investigation, I see that it's because I had hardcoded the webmention URLs. Hopefully I've resolved that problem! I will now try redploying to see if it works for this blog post of photography:_
 
-https://www.littlefair.ca/photography/florence
+https://www.littlefair.ca/photography/doorway

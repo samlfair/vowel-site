@@ -11,5 +11,32 @@
     "canonical": "https://www.nngroup.com/articles/breadcrumb-navigation-useful/",
     "title": "Breadcrumb Navigation Increasingly Useful",
     "image": ""
+  },
+  "https://www.littlefair.ca/photography/film": {
+    "image": "[object Object]",
+    "ogURL": "",
+    "canonicalURL": "",
+    "title": "How to Choose the Right Camera Film - Photography - Sam Littlefair",
+    "ogTitle": "",
+    "author": "",
+    "description": ""
+  },
+  "https://www.littlefair.ca/photography/lanzarote": {
+    "image": "https://littlefair.imgix.net/canaries-12.jpeg",
+    "ogURL": "",
+    "canonicalURL": "",
+    "title": "Lanzarote - Photography - Sam Littlefair",
+    "ogTitle": "",
+    "author": "",
+    "description": ""
+  },
+  "https://indieweb.org/webmentions": {
+    "image": "",
+    "ogURL": "https://indieweb.org/Webmention",
+    "canonicalURL": "https://indieweb.org/Webmention",
+    "title": "Webmention - IndieWeb",
+    "ogTitle": "Webmention",
+    "author": "",
+    "description": "Webmention is an open web standard (W3C Recommendation) for conversations and interactions across the web, a powerful building block used for a growing distributed network of peer-to-peer comments, likes, reposts, and other responses across the web."
   }
 }

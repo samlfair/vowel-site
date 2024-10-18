@@ -7,7 +7,8 @@
   },
   "scripts": {
     "dev": "vowel",
-    "build": "vowel build"
+    "build": "vowel build",
+    "publish": "vowel publish"
   },
   "keywords": [],
   "author": "Sam Littlefair <sam@littlefair.ca> (http://littlefair.ca/)",

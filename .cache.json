@@ -5,5 +5,11 @@
     "title": "URL as UI",
     "image": "",
     "description": "Users continue to type and guess URLs and domain names, so Web usability can be improved by better URLs. In the long term this machine-level addressing scheme must be hidden."
+  },
+  "https://www.nngroup.com/articles/breadcrumb-navigation-useful/": {
+    "url": "https://www.nngroup.com/articles/breadcrumb-navigation-useful/",
+    "canonical": "https://www.nngroup.com/articles/breadcrumb-navigation-useful/",
+    "title": "Breadcrumb Navigation Increasingly Useful",
+    "image": ""
   }
 }

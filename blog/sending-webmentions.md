@@ -15,9 +15,9 @@ With the latest version, Vowel will scan your content for any links to other web
 
 I'm also working on displaying webmentions at the bottom of pages. Right now, Vowel will just display a URL. In the coming days I'll flesh that out with titles, descriptions, and images. One part of that work is [implementing](https://github.com/samlfair/vowel/commit/875b5092e5cf050149114ba31e1972a9c0f1dfa7) proper [microformat markup](https://indieweb.org/microformats). This creates structured data from your content.
 
-For now, let's give it a test. Here's a link to a blog post I wrote recently about choosing 35mm film:
+For now, let's give it a test. Here's a link to a blog post I wrote recently:
 
-https://www.littlefair.ca/photography/film
+https://www.littlefair.ca/photography/doorway
 
 If the system is working properly, a webmention should appear at the bottom of that page after I publish both sites.
 
@@ -25,4 +25,5 @@ _Edit: I can see that the website has updated properly, and it's earmarked the n
 
 _Edit 2: The webhook didn't send properly. Upon investigation, I see that it's because I had hardcoded the webmention URLs. Hopefully I've resolved that problem! I will now try redploying to see if it works for this blog post of photography:_
 
-https://www.littlefair.ca/photography/doorway
+_Edit 3: After further examination, I unearthed another bug in webmentions. I've solved it, and now the webmention has populated._
+

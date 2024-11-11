@@ -63,6 +63,7 @@ description: What's planned.
 - [ ] Basic caching with [fs.stat](https://nodejs.org/docs/v0.4.12/api/fs.html#fs.stat)
 - [ ] Support Obsidian callouts and GitHub alerts
 - [ ] Setup wizard
+- [ ] Handle images with [unpic](https://unpic.pics/)
 
 ## V3
 

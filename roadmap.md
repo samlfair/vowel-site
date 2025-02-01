@@ -54,6 +54,7 @@ description: What's planned.
 - [x] Tables of contents
 - [x] Frontmatter interpolation (image)
 - [ ] Add a default 404 page
+- [ ] Handle comments
 - [x] [Send webmentions](https://indieweb.org/webmentions)
 - [x] Webmention link in head
 - [ ] Display webmentions
